@@ -9,7 +9,7 @@
 
 ---
 
-## 👋 About Me
+## 👋 About Me.
 
 I'm a passionate software developer who loves building, learning, and collaborating. Whether it's writing clean code, automating workflows, or experimenting with new stacks — I'm always up for a challenge. 🔥
 
@@ -19,7 +19,7 @@ I'm a passionate software developer who loves building, learning, and collaborat
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack.
 
 <p align="center"> 
 <!-- Frontend --> 
@@ -40,7 +40,7 @@ I'm a passionate software developer who loves building, learning, and collaborat
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me.
 
 <p align="center">
   <a href="https://github.com/BhavishaGhatwal-10">
@@ -59,7 +59,7 @@ I'm a passionate software developer who loves building, learning, and collaborat
 
 ---
 
-## 🔥 GitHub Stats
+## 🔥 GitHub Stats.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=BhavishaGhatwal-10&theme=react&hide_border=true&layout=compact&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="GitHub Streak" />
